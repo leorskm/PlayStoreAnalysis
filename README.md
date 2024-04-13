@@ -36,4 +36,4 @@ The dataset utilized in this project was the googleplaystore.csv dataset, which 
 
 - **Interpretation**: Identified key characteristics of each cluster, providing insights into what factors might contribute to an app's success on the Google Play Store.
 
-The project was performed in R. Find the code and the dataset attached to this repository. 
+The project was performed in R. Find the code, visualisations and the dataset attached to this repository. 
