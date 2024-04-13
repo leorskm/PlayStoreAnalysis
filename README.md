@@ -1,7 +1,7 @@
 ## Google Play Store Analysis using R
 
 ### Project Description:
-This project aimed to segment Google Play Store applications into meaningful clusters to understand patterns in app popularity, user engagement, and monetization strategies. Leveraging unsupervised learning techniques, particularly K-Means clustering, we categorized apps into distinct groups based on their characteristics. The project also included comprehensive data cleaning, feature engineering, and visualizations to gain insights into the mobile app market dynamics.
+This project aimed to segment Google Play Store applications into meaningful clusters to understand patterns in app popularity, user engagement, and monetization strategies. Leveraging unsupervised learning techniques, particularly K-Means clustering, I categorized apps into distinct groups based on their characteristics. The project also included comprehensive data cleaning, feature engineering, and visualizations to gain insights into the mobile app market dynamics.
 
 ### Data Description:
 The dataset utilized in this project was the googleplaystore.csv dataset, which encapsulates details of mobile applications available on the Google Play Store. The following attributes were included:
